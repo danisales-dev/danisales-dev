@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou **Daniel Sales** 👋
 
-<!--
-**danisales-dev/danisales-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheiro de Software** | **React, Node.js, AWS** | **Microserviços & Arquiteturas Distribuídas**
 
-Here are some ideas to get you started:
+Atualmente na **Hotmart**, com 7 anos de experiência em **desenvolvimento front-end** e **back-end**. Focado em **soluções escaláveis**, **performance** e **experiência do usuário**. Sempre buscando aprender novas tecnologias e melhorar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que eu uso:
+- **Front-end:** React, Next.js, React Native, Micro-Frontends
+- **Back-end:** Node.js, NestJS, Express, REST APIs
+- **Cloud & DevOps:** AWS (S3, ECS, Lambda), Docker, CI/CD
+- **Observabilidade:** ELK Stack, New Relic
+
+**Sempre aberto a novos desafios e oportunidades.**
+
+📧 [danielsales.dev@gmail.com](mailto:danielsales.dev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/danielbpsales) | [GitHub](https://github.com/danisales-dev)
