@@ -21,5 +21,7 @@ Currently working at **Hotmart**, with 7 years of experience in **front-end** an
 **Sempre aberto a novos desafios e oportunidades.**  
 **Always open to new challenges and opportunities.**
 
+[danielsales.dev](https://wwww.danielsales.dev)
+
 📧 [danielsales.dev@gmail.com](mailto:danielsales.dev@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/danielbpsales) | [GitHub](https://github.com/danisales-dev)
