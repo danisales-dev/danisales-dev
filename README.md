@@ -22,4 +22,4 @@ Currently working at **Hotmart**, with 7 years of experience in **front-end** an
 **Always open to new challenges and opportunities.**
 
 📧 [danielsales.dev@gmail.com](mailto:danielsales.dev@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/danielbpsales) | [GitHub](https://github.com/EstusFlaskException)
+🔗 [LinkedIn](https://www.linkedin.com/in/danielbpsales) | [GitHub](https://github.com/danisales-dev)
